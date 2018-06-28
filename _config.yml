@@ -5,18 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko" # "en-US"
-title                    : "Inspiring People : Data Analysis, Writing, Music, Smart Working 기록공간"
+title                    : "Inspiring People"
 title_separator          : "-"
 name                     : "YounKyung Jang"
 description              : "Data Analysis, Writing, Music, Smart Working"
@@ -60,15 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -129,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : https://youtube.com/dearpiano # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://youtube.com/dearpiano" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -197,7 +182,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 7 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -269,3 +254,5 @@ defaults:
       comments: true
       share: false # true
       related: true
+      # category: undefined
+      toc: true

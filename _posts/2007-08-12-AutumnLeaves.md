@@ -1,7 +1,7 @@
 ---
-category: youtube
+category: Music
 title: Autumn Leaves 연주
-tags: [piano, youtube]
+tags: [Piano, Youtube]
 ---
 홍대 클럽 에반스에서 Autumn Leaves 연주.  
 홍대 클럽 에반스는 10년 된 재즈 클럽으로 대학교 시절부터 종종 방문하고 동경해왔던 장소이다.  

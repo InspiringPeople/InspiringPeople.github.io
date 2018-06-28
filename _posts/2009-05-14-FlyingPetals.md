@@ -1,7 +1,7 @@
 ---
-category: piano
+category: Music
 title: Flying Petals (이지수) 연주
-tags: [piano, youtube]
+tags: [Piano, Youtube]
 comments: true
 ---
 LG R&D Award의 두번째 곡, flying petals이다.  

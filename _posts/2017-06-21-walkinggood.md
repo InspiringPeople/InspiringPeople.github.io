@@ -1,7 +1,7 @@
 ---
-category: writing
+category: Writing
 title: 걷기 예찬 (part1)
-tags: [writing, book, 필사]
+tags: [Writing, Book, 필사]
 ---
 
 걷기 예찬, 수많은 걷기 책 중 내가 손꼽아 좋아하는 책 중 하나이다. 걷기의 육체적인 측면 뿐만 아니라 정신적인 부분까지 다루고 있고, 걷기를 통해 삶을 다시 들여다 볼 수 있도록 질문 거리를 던져주는 책이다.   

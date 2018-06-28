@@ -1,7 +1,7 @@
 ---
-category: piano
+category: Music
 title: Feel So Good (Chuck Mangione) 연주
-tags: [piano, youtube]
+tags: [Piano, Youtube]
 ---
 LG R&D Award는 1년에 한번 있는 행사로 전사적으로 성과가 높았던 task, 조직 등에게 상을 수여하는 행사이다.  
 2009년 LG R&D Award 축하공연에 초대되어 피아노 2곡 연주를 하였다.

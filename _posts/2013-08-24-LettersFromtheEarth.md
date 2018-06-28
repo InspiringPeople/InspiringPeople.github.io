@@ -1,7 +1,7 @@
 ---
-category: piano
+category: Music
 title: Letters From The Earth (김광민) 연주
-tags: [piano, youtube]
+tags: [Piano, Youtube]
 ---
 김광민님의 Letters From The Earth 연주.  
 
