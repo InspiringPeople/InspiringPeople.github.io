@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko" # "en-US"
-title                    : "Inspiring People"
+title                    : "Inspiring People : Data Analysis, Writing, Music, Smart Working 기록공간"
 title_separator          : "-"
 name                     : "YounKyung Jang"
 description              : "Data Analysis, Writing, Music, Smart Working"
