@@ -19,20 +19,20 @@ tags: [Music, Writing]
 
 **All the thins you are - Oscar Peterson Trio 버젼**  
 제일 좋아하는 버전, 1000번을 들어도 질리지 않는다.  
-[![오스카피터슨](http://img.youtube.com/vi/4gePbZym85M/0.jpg)](http://www.youtube.com/watch?v=4gePbZym85M "")
+[![오스카피터슨](http://img.youtube.com/vi/4gePbZym85M/0.jpg)](http://www.youtube.com/watch?v=4gePbZym85M "오스카피터슨")
 
 **All the thins you are - 김광민 버전**  
 피아노 solo가 돋보이는 버전, 비오는 날 들으면 더욱 좋다.  
-[![김광민](http://img.youtube.com/vi/vxCzDSSWDU0/0.jpg)](http://www.youtube.com/watch?v=vxCzDSSWDU0 "")
+[![김광민](http://img.youtube.com/vi/vxCzDSSWDU0/0.jpg)](http://www.youtube.com/watch?v=vxCzDSSWDU0 "김광민")
 
 **All the thins you are - 정동환 버전**  
 이 곡을 통해서 정동환이라는 사람을 알게 되었다. 멜로망스라는 그룹의 피아니스트  
-[![정동환](http://img.youtube.com/vi/XTNVJHkVQmU/0.jpg)](http://www.youtube.com/watch?v=XTNVJHkVQmU "") 
+[![정동환](http://img.youtube.com/vi/XTNVJHkVQmU/0.jpg)](http://www.youtube.com/watch?v=XTNVJHkVQmU "정동환") 
 
 **All the thins you are - 빌에반스 버전**  
 빌에반스의 진가를 확인할 수 있다.  
-[![빌에반스](http://img.youtube.com/vi/q-IBKEkXGZk/0.jpg)](http://www.youtube.com/watch?v=q-IBKEkXGZk "")
+[![빌에반스](http://img.youtube.com/vi/q-IBKEkXGZk/0.jpg)](http://www.youtube.com/watch?v=q-IBKEkXGZk "빌에반스")
 
 **All the thins you are - 마이클잭슨 버전**  
 All the thins you are의 신나는 버전. 마이클 잭슨의 어릴 적 청량한 목소리를 들을 수 있다.  
-[![마이클잭슨](http://img.youtube.com/vi/lTZ0jn6TCUw/0.jpg)](http://www.youtube.com/watch?v=lTZ0jn6TCUw "")
+[![마이클잭슨](http://img.youtube.com/vi/lTZ0jn6TCUw/0.jpg)](http://www.youtube.com/watch?v=lTZ0jn6TCUw "마이클잭슨")

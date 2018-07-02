@@ -2,7 +2,6 @@
 category: Music
 title: Flying Petals (이지수) 연주
 tags: [Piano, Youtube]
-comments: true
 ---
 LG R&D Award의 두번째 곡, flying petals이다.  
 이지수님의 연주곡으로 '봄의 왈츠'라는 드라마에 삽입되었던 곡이고 원래는 듀엣 연주곡이다.  
