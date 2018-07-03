@@ -1,6 +1,6 @@
 ---
 category: Writing  
-title: 김훈, 공터에     
+title: 김훈, 공터에서     
 tags: [Writing, 필사]   
 --- 
 
