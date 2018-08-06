@@ -5,7 +5,7 @@ tags: [Data Analysis]
 ---  
 
 **1. jupyter notebook .ipynb 파일을 .py 파이썬 파일로 변환**   
-$ jupyter notebook --to script [xxx].ipynb
+$ jupyter nbconvert --to script [xxx].ipynb
 
 **2. jupyter notebook 명령어 help**  
 ESC key (명령어 모드) + H (help)
