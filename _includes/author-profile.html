@@ -259,5 +259,28 @@
 
       {% include author-profile-custom-links.html %}
     </ul>
-  </div>
+  </div>  
+
+  {% if author.avatar2 %}
+    <div class="author__avatar2">
+      {% if author.avatar2 contains "://" %}
+        {% assign author_src = author.avatar2 %}
+      {% else %}
+        {% assign author_src = author.avatar2 | relative_url %}
+      {% endif %}
+
+      {% if author.home %}
+        {% if author.home contains "://" %}
+          {% assign author_link = author.home %}
+        {% else %}
+          {% assign author_link = author.home | relative_url %}
+        {% endif %}
+        <a href="{{ author_link }}">
+          <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        </a>
+      {% else %}
+        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+      {% endif %}
+    </div>
+  {% endif %}
 </div>

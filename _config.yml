@@ -87,6 +87,7 @@ analytics:
 author:
   name             : "YounKyung Jang"
   avatar           : "/assets/img/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar2           : "/assets/img/profile2.jpg" 
   bio              : "자세히 보아야 아름답다. 너도 그렇다"
   location         : # "Korea"
   email            : "ykjang@gmail.com"
