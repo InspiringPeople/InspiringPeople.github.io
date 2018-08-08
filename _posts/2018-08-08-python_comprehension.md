@@ -1,17 +1,15 @@
-
---- 
-category : Data Analysis  
-title : Python Comprehension  
-tags : Data Analysis, Python, Comprehension  
+---
+category : Data Analysis
+title : Comprehension 이해하기   
+tags : [Data Analysis, Python, Comprehension]
 ---
 
-
-## Python Comprehension
+# Python Comprehension
 
 R에서 Python으로 넘어온 후 가장 혼동되었던 것들이 fancy indexing, comprehension 등이다.  
 특히 comprehension 같은 경우 text 전처리에서 많이 사용되므로 확실하게 알고 갈 필요가 있다.
 
-### Comprehension 이란?  
+## Comprehension 이란?  
 간단히 말해 한 줄 짜리 반복문이다.  
 아래와 같은 중첩 for문을 한줄로 표현할 수 있다.
 
@@ -62,9 +60,9 @@ print(sum([j for i in a for j in i ])) # 2차원 배열의 행/열 합계 (i : �
     1557
 
 
-### List / Set / Dictionary Comprehension  
+## List / Set / Dictionary Comprehension  
 
-#### List Comprehension  
+### List Comprehension  
 입력 Sequence로부터 지정된 표현식에 따라 새로운 리스트 컬렉션을 생성  
 ** 문법 : [출력표현식 for 요소 in 입력Sequence [if 조건식]] **  
 
@@ -78,7 +76,7 @@ print(newlist)
     [1, 4, 9]
 
 
-#### Set Comprehension  
+### Set Comprehension  
 Set Comprehension은 입력 Sequence로부터 지정된 표현식에 따라 새로운 Set 컬렉션을 생성  
 ** 문법 : {출력표현식 for 요소 in 입력Sequence [if 조건식]} **
 
@@ -92,7 +90,7 @@ print(newlist)
     {16, 1, 4, 9}
 
 
-#### Dictionary Comprehension  
+### Dictionary Comprehension  
 Dictionary Comprehension은 입력 Sequence로부터 지정된 표현식에 따라 새로운 Dictionary 컬렉션을 생성  
 ** 문법 : {Key:Value for 요소 in 입력Sequence [if 조건식]} **
 
@@ -106,7 +104,7 @@ print(name_id)
     {'박진수': 1, '강만진': 2, '홍수정': 3}
 
 
-#### Nested Comprehension Examples   
+### Nested Comprehension Examples   
 - 단어에서 모음을 제거하는 List Comprehension  
 - 2차원 행렬을 일차원화 시키는 List Comprehension
 
@@ -131,9 +129,8 @@ print("flatten : ", flatten)
     flatten :  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 
 
-#### Advanced Examples  
-
-**예 1. 아래 모양의 행렬 만들기**  
+## Advanced Examples  
+### 예 1. 아래 모양의 행렬 만들기    
 [ [ 1, 0, 0 ],  
   [ 0, 1, 0 ],  
   [ 0, 0, 1 ] ]
@@ -147,7 +144,7 @@ print(m)
     [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
 
 
-**예 2. 두 개 이상의 원소는 zip으로 접근하기**  
+### 예 2. 두 개 이상의 원소는 zip으로 접근하기    
 python 3에서 zip, map의 원소를 출력하기 위해서는 list(zip(x)), list(map(x))를 사용한다  
 
 
@@ -172,7 +169,7 @@ print([[c, a] for c, a in zip(cities, airports)])
     [['Chicago', 'ORD'], ['Detroit', 'DTW'], ['Atlanta', 'ATL']]
 
 
-** 예 3. two-level list comprehension 이용 **  
+### 예 3. two-level list comprehension 이용    
 os.woak() 이용(하위 폴더까지 모두 검색)하여 *.ipynb 파일 모두 불러오기
 
 
@@ -187,7 +184,7 @@ for r in restFiles:
     ./.ipynb_checkpoints/comprehension-checkpoint.ipynb
 
 
-** 예 4. set comprehension 이용 **  
+### 예 4. set comprehension 이용    
 set comprehension으로 중복 이름 제거하고 2글자 이상 이름만 표시 (첫글자 대분자, 나머지 소문자)  
 
 
@@ -204,7 +201,8 @@ print(name_set)
 
 
 
-**예 5. dictionary comprehension 이용**  
+
+### 예 5. dictionary comprehension 이용    
 key에 있는 중복 알파벳은 소문자로 결합하고 value 값 합산하기
 
 
@@ -220,7 +218,7 @@ print(mcase_frequency)
     {'a': 17, 'b': 34, 'z': 3}
 
 
-#### Etc  
+### Etc  
 comprehension은 map & filter 함수로 대체될 수 있다.  
 
 
@@ -247,7 +245,7 @@ print(list(squared_ints))
     [1, 81, 0, 16]
 
 
-### Reference  
+## Reference  
 - http://pythonstudy.xyz/python/article/22-Python-Comprehension  
 - https://mingrammer.com/introduce-comprehension-of-python/  
 - http://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html
