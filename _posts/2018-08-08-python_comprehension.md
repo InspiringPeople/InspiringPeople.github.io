@@ -64,7 +64,7 @@ print(sum([j for i in a for j in i ])) # 2차원 배열의 행/열 합계 (i : �
 
 ### List Comprehension  
 입력 Sequence로부터 지정된 표현식에 따라 새로운 리스트 컬렉션을 생성  
-** 문법 : [출력표현식 for 요소 in 입력Sequence [if 조건식]] **  
+**문법 : [출력표현식 for 요소 in 입력Sequence [if 조건식]]**    
 
 
 ```python
@@ -78,7 +78,7 @@ print(newlist)
 
 ### Set Comprehension  
 Set Comprehension은 입력 Sequence로부터 지정된 표현식에 따라 새로운 Set 컬렉션을 생성  
-** 문법 : {출력표현식 for 요소 in 입력Sequence [if 조건식]} **
+**문법 : {출력표현식 for 요소 in 입력Sequence [if 조건식]}**  
 
 
 ```python
@@ -92,7 +92,7 @@ print(newlist)
 
 ### Dictionary Comprehension  
 Dictionary Comprehension은 입력 Sequence로부터 지정된 표현식에 따라 새로운 Dictionary 컬렉션을 생성  
-** 문법 : {Key:Value for 요소 in 입력Sequence [if 조건식]} **
+**문법 : {Key:Value for 요소 in 입력Sequence [if 조건식]}**
 
 
 ```python
