@@ -150,8 +150,6 @@ plt.savefig('little180809.png', dpi = 100)
 plt.show()
 ```
 
-
-![png](../assets/output_10_0.png)
 ![wordcloud](https://www.dropbox.com/s/fge4xtc9ir2ru2s/output_10_0.png?raw=1)
 
 실행 후 생성된 csv 파일을 열어보면 단어와 단어 뜻이 함께 잘 저장되어 있는 것을 확인할 수 있다.  
