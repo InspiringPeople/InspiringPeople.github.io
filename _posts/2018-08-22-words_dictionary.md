@@ -4,12 +4,10 @@ title : 영어 사전 자동으로 만들기
 tags : [Data Analysis, Python, Text Mining, dictoinary]
 ---
 
-# 빈도순으로 영어 사전 만들기
-
 pycon 2018에 발표되었던 내용인데 앞으로 만들어보고 싶은 내용과 연계가 되어서 실행해보았다.  
 다른 세션 듣느라 발표는 직접 듣지 못했지만 발표자 분이 실습자료와 ppt 자료를 잘 만들어주셔서 자료만으로도 충분하게 이해할 수 있었다.
 
-## 코드 실행 내용
+## 코드  
 아래 코드는 text 파일을 읽어와서 text 파일 안에 존재하는 단어를 빈도순으로 정렬하고 단어 뜻을 네이버 사전에서 추출하여 영어 사전 파일 형태로 csv 파일로 출력하는 것이다.  
 
 
@@ -155,6 +153,9 @@ plt.show()
 
 ![png](../assets/output_10_0.png)
 ![wordcloud](https://www.dropbox.com/s/fge4xtc9ir2ru2s/output_10_0.png?raw=1)
+
+실행 후 생성된 csv 파일을 열어보면 단어와 단어 뜻이 함께 잘 저장되어 있는 것을 확인할 수 있다.  
+![result](https://www.dropbox.com/s/zhgrvy7njakdzgz/word_dic_result.png?raw=1)
 
 ## Reference
 - https://pypi.org/project/Wikiprw3eedia-API/
