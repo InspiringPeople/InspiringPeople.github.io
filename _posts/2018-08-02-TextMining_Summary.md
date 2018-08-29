@@ -16,15 +16,20 @@ Text Mining에 입문한지 얼마되지 않았지만,
 
  
 
-![summary](https://www.dropbox.com/s/h9a017snhpezdgk/text_mining.jpeg?raw=1)
+![summary](/assets/img/grit_map.png)
 
 Text Mining 중 거쳐갔던 과정들을 마인드맵으로 그려보았다. 마인드맵으로 그리니... 한눈에... 복잡해 보인다;; 그러나 온라인 상에는  나와 같이 무지한 사람들을 위해 자료를 잘 정리해두신 많은 덕인들이 계셔 큰 도움을 받을 수 있었다. (그래서 나도 여기에 정리한다. ㅎㅎ)     
 관련 주제에 대해 정리한 내용과 참고했던 사이트 링크 등을 공유할 예정이다.      
 <br>
 ## [Text Mining] ## 
 ### 1. Pre-processing ###
-1. cleansing
-2. tokenizing
+- cleansing / tokenizing  
+ckonlpy를 이용해서 Text Data cleansing 및 tokenizing 하기  
+링크 : https://inspiringpeople.github.io/data%20analysis/ckonlpy/  
+
+- 영어 / 한글 Pre-processing 실습  
+
+
 
 ### 2. Word Embedding ###
 1. word2vec
