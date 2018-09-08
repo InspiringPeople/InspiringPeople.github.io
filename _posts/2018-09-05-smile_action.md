@@ -1,6 +1,6 @@
 ---
 category : Writing
-title : 무례한 사람에게 웃으며 대처하는 법
+title : 무례한 사람에게 웃으며 대처하는 법 1
 tags : [무례한 사람에게 웃으며 대처하는 법, 필사, Writing]
 ---
 
