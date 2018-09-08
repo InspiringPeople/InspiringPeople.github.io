@@ -7,7 +7,9 @@ tags: [Writing, 강연]
 
 강원국님은 스피치 라이터로 불리우며 고 김대중, 노무현 대통령의 연설비서관으로 활동하였다. '대통령의 글쓰기'라는 책의 저자로 사실 처음 읽었을 때 보다 세월호 사건이 일어난 후 재독하게 되었는 때 그때 상황과 맞물려 너무 감명을 받았었다. 꼭 만나뵙고 싶었는데 어쩌다 어른 작가시리즈 편 방청 신청이 되어 운 좋게 강연을 듣게 되었다. 
 
-![kang](https://slack-files.com/TBF02N87L-FCP5W6649-9f3fee7715)  
+![kang](https://slack-files.com/TBF02N87L-FCP5W6649-9f3fee7715 "kang")  
+
+![mango](https://slack-files.com/TBF02N87L-FCGDXSR88-154baed93b)  
 
 글 쓰기에 관심이 많은 분들을 위해 강연 내용을 공유한다.  
 
