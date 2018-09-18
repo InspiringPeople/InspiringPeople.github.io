@@ -4,27 +4,21 @@ title: Word2Vec & FastText (이론)
 tags: [word2vec, fasttext, word embedding, Python]
 ---
 
+0, 1만 알아들을 수 있는 컴퓨터에게 우리의 언어를 이해시키기 위해서는 어떠한 작업들이 필요할까?  
 
-# Word Embedding으로 컴퓨터와 대화하기 
+그 해답은 바로 Word Embedding에 있다.  
+Word Embedding 여러 기법 중 대표적인 Word2Vec과 FastText를 설명한다.  
+     
 ## FastText (+Word2Vec) 
 
-<img src="attachment:title.png" height="200" width="400">
+<img src="/assets/img/title.png" height="400" width="600" align="center">{: .align-center}  
+(그림작업:애플펜슬, featuring: NEO in KaKaoFriends)
+{: .text-center}  
+   
+---  
+# NLP Steps & 활용  
 
-
-# Intro  
-**목표**  
-Word2Vec과 FastText 등 Word Embedding에 대해서 알아본다.
-
-**다루는 것**  
-개념, 활용 방법, 장/단점, 차이점 등
-
-**다루지 않는 것**  
-복잡한 수식, 난해한 표현
-
-**들으면서 생각할 것들**  
-어디에 활용하면 좋을까?
-
-<img src="attachment:nlp.png" height="400" width="800">
+<img src="/assets/img/nlp.png" height="400" width="600">{: .align-center}
 
 # Word Embedding
 
@@ -43,7 +37,7 @@ Word2Vec과 FastText 등 Word Embedding에 대해서 알아본다.
 - glove (stanford)
 - dense, short vectors
 
-![local_distributed.png](attachment:local_distributed.png)
+![local_distributed.png](/assets/img/local_distributed.png)
 
 ## 1. Word2Vec
 
@@ -59,7 +53,7 @@ Word2Vec과 FastText 등 Word Embedding에 대해서 알아본다.
 - window 내에 등장하지 않는 단어에 해당하는 벡터는 중심단어 벡터와 벡터공간상에서 멀어지게끔(내적값 줄이기), 등장하는 주변단어 벡터는 중심단어 벡터와 가까워지게끔(내적값 키우기) 값을 변경해 나감
 
 
-![cbow_skipgram.PNG](attachment:cbow_skipgram.PNG)
+![cbow_skipgram.PNG](/assets/img/cbow_skipgram.PNG)
 
 **CBoW & Skip-gram 예시**  
 
@@ -75,7 +69,7 @@ vector('Paris') - vector('France') + vector('Italy') = vector('Rome')
 ![wv_clustering.PNG](/assets/img/wv_clustering.PNG)
 
 ### Classification
-<img src="attachment:wv_classification.PNG" height="200" width="400">
+<img src="/assets/img/wv_classification.PNG" height="200" width="400">
 
 ### Word2Vec의 한계점
 - **단어의 형태학적 특성을 반영하지 못함**  
@@ -88,6 +82,7 @@ Word2Vec등과 같은 기존의 방법들은 Distribution hypothesis를 기반�
 - **Out-of-Vocabulary(OOV)를 처리할 수 없는 단점**    
 Word2Vec은 단어단위로 어휘집(Vocabulary)를 구성하기 때문에, 어휘집에 없는 새로운 단어가 등장하면 데이터 전체를 다시 학습시켜야 함  
 
+
 ## 2. FastText
 **논문**  
 1. Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. Enriching Word Vectors with Subword Information, 2016
@@ -99,6 +94,7 @@ Word2Vec은 단어단위로 어휘집(Vocabulary)를 구성하기 때문에, 어
 - Word embedding (Distributed vector represenatation of words)에는 다양한 방법이 있지만, 대부분의 방법들은 언어의 형태학적(Morpological)인 특성을 반영하지 못하고, 또 희소한 단어에 대해서는 Embedding이 되지 않음
 - 본 연구에서는 단어를 Bag-of-Characters로 보고, 개별 단어가 아닌 n-gram의 Charaters를 Embedding함 (Skip-gram model 사용)
 - 최종적으로 각 단어는 Embedding된 n-gram의 합으로 표현됨, 그 결과 빠르고 좋은 성능을 나타냈음
+
 
 # FastText Example
 
@@ -335,7 +331,7 @@ plot_with_labels(low_dim_embedding, words)
 
 
 
-![png](output_21_1.png)
+![png](/assets/img/output_21_1.png)
 
 
 
@@ -401,7 +397,7 @@ $ make && make install
 ```
 $ : ./fasttext nn model.bin  
 ```  
-<img src="attachment:ft1.png" height="300" width="600">
+<img src="/assets/img/ft1.png" height="300" width="600">
 
 **classificatoin 모델로 예측하기**  
 ```
@@ -450,10 +446,10 @@ print(sim_score)
     0.003142370718195925
 
 
-### 우리 도메인 데이터로 학습된 FastText 모델을 만들어보자
+### 내가 가진 데이터로 FastText 모델을 만들어보기  
 
 **Self-trained FastText**  
-- 데이터 : 한국어 crawling data 41만건 + IMS 이슈 데이터 5만4천여건 + Issue Monitoring 이슈 2천여건 + PL 데이터 3만여건
+- 데이터 : 한국어 crawling data 41만건  
 - Parameter : skipgram , -lr 0.025 , -dim 300 , -ws 5 , -epoch 20 , -lrUpdateRate 100
 
 **The following arguments for the dictionary are optional:**  
@@ -481,8 +477,8 @@ print(sim_score)
 
 
 
-self-trained fastText with LG Data
-<img src="attachment:ft2.png" height="300" width="600">
+self-trained fastText with Crawling Data
+<img src="/assets/img/ft2.png" height="300" width="600">
 
 ### Word2Vec VS FastText
 
@@ -579,7 +575,7 @@ plot_with_labels(low_dim_embedding, words)
 
 
 
-![png](output_32_1.png)
+![png](/assets/img/output_32_1.png)
 
 
 # In Practice
