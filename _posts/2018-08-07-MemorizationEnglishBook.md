@@ -35,7 +35,6 @@ tags : [Writing, English]
 > 《삐삐 롱스타킹(Pippi Longstocking)》이나 《아낌없이 주는 나무(The Giving Tree)》 등 어려서 읽은 책을 영어 공부를 겸해 다시 읽어도 좋아요.  
 > 
 > 이건 그냥 어린 시절의 나를 위한 선물이야.
-> 어른의 삶은 어린 시절의 자신을 위한 선물입니다. 도서관 어린이 자료실에 가서 어려서 읽지 못한 책을 다시 읽습니다. 이제는 영어 원서로 읽을 수 있다는 게 어른이 된 기쁨이지요. 아이와 일주일에 한 번은 꼭 동네 도서관에 갑니다. 어린이 자료실에서 아이에게 책 읽어주는 아빠, 이게 내가 꿈꾸던 어른의 모습이니까요. 이건 그냥 어린 시절의 나를 위한 선물이야.  
 > 어른의 삶은 어린 시절의 자신을 위한 선물입니다. 도서관 어린이 자료실에 가서 어려서 읽지 못한 책을 다시 읽습니다. 이제는 영어 원서로 읽을 수 있다는 게 어른이 된 기쁨이지요. 아이와 일주일에 한 번은 꼭 동네 도서관에 갑니다. 어린이 자료실에서 아이에게 책 읽어주는 아빠, 이게 내가 꿈꾸던 어른의 모습이니까요.  
 > 
 > Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you.  
