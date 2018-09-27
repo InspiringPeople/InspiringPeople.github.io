@@ -1,6 +1,6 @@
 ---
 category : Writing
-title : A Inspiring Article
+title : An Inspiring Article
 tags : [kaggle, maternity leave, mom]
 ---
 

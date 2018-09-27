@@ -22,19 +22,17 @@ Text Mining 중 거쳐갔던 과정들을 마인드맵으로 그려보았다. �
 ## [Text Mining] ## 
 ### 1. Pre-processing ###
 - cleansing / tokenizing  
-ckonlpy를 이용해서 Text Data cleansing 및 tokenizing 하기  
-링크 : https://inspiringpeople.github.io/data%20analysis/ckonlpy/  
+ckonlpy를 이용해서 Text Data cleansing 및 tokenizing 하기 : [링크 바로가기](https://inspiringpeople.github.io/data%20analysis/ckonlpy/)    
 
 - 영어 / 한글 Pre-processing 실습  
 
 
 
 ### 2. Word Embedding ###
-1. word2vec
-2. fastText
+- Word2vec & FastText (이론) : [링크 바로가기](https://inspiringpeople.github.io/data%20analysis/word_embedding/)    
 
 ### 3. Modeling ###
 1. clustering
 2. classification    
-
+3. LDA
 

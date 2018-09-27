@@ -43,7 +43,7 @@ Word Embedding 여러 기법 중 대표적인 Word2Vec과 FastText를 설명한�
 
 (Tomas Mikolov. Distributed Representations of Words and Phrases and their Compositionality. In Proceedings of NIPS, 2013.)
 
-**Distributional Hypothesis **  
+**Distributional Hypothesis**  
 - 두 단어의 문맥(주변 단어들)/분포도가 비슷하면 “의미적”으로 유사한 단어
 - 예) 집 앞 편의점에서 아이스크림을 사 먹었는데, ___ 시려서 너무 먹기가 힘들었다.
 
