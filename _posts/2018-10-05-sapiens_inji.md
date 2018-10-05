@@ -5,7 +5,7 @@ tags : [사피엔스, 유발하라리, 필사, Writing]
 --- 
 
 **사피엔스 제 1장. 인지혁명 관련 필사**
-![test](/assets/img/sp_intro.jpg)<br>  
+
 ![intro](https://www.dropbox.com/s/sqbzt2nu1pr1vei/IMG_3772.JPG?raw=1)  
 ![inji1](https://www.dropbox.com/s/qv8hue1hzn9m31n/IMG_3773.PNG?raw=1)  
 ![inji2](https://www.dropbox.com/s/msfxx5zjnkj3zgf/IMG_3774.JPG?raw=1)  
