@@ -4,17 +4,17 @@ title : 사피엔스 필사1_인지혁명
 tags : [사피엔스, 유발하라리, 필사, Writing]
 --- 
 
-**사피엔스 제 1장. 인지혁명 관련 필사**    
-
-![intro](/assets/img/sp_intro.jpg)  
-![inji1](/assets/img/sp_inji_1.png)  
-![inji2](/assets/img/sp_inji_2.jpg)  
-![inji3](/assets/img/sp_inji_3.jpg)  
-![inji4](/assets/img/sp_inji_4.jpg)  
-![inji5](/assets/img/sp_inji_5.jpg)  
-![inji6](/assets/img/sp_inji_6.jpg)  
-![inji7](/assets/img/sp_inji_7.jpg)  
-![inji8](/assets/img/sp_inji_8.jpg)  
+**사피엔스 제 1장. 인지혁명 관련 필사**
+![test](/assets/img/sp_intro.jpg)<br>  
+![intro](https://www.dropbox.com/s/sqbzt2nu1pr1vei/IMG_3772.JPG?raw=1)  
+![inji1](https://www.dropbox.com/s/qv8hue1hzn9m31n/IMG_3773.PNG?raw=1)  
+![inji2](https://www.dropbox.com/s/msfxx5zjnkj3zgf/IMG_3774.JPG?raw=1)  
+![inji3](https://www.dropbox.com/s/2aw61ccc0j1quka/IMG_3775.JPG?raw=1)  
+![inji4](https://www.dropbox.com/s/izbplzm2igvpn99/IMG_3776.JPG?raw=1)  
+![inji5](https://www.dropbox.com/s/ox694fknq7nucbv/IMG_3777.JPG?raw=1)  
+![inji6](https://www.dropbox.com/s/6o96ru0nagcm656/IMG_3778.JPG?raw=1)  
+![inji7](https://www.dropbox.com/s/prw6sfqrxu1d32r/IMG_3779.JPG?raw=1)  
+![inji8](https://www.dropbox.com/s/u9eh4i5ptudb3a6/IMG_3780.JPG?raw=1)  
 
 **[단상]**  
 인지혁명 챕터에서는 기존의 내 상식과 달라서, 인간의 잔혹함에 대해 또 한 번 알게 되어 적잖이 놀란 부분이 많았다.  
