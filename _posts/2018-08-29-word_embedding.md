@@ -66,7 +66,7 @@ vector('Paris') - vector('France') + vector('Italy') = vector('Rome')
 ![word2vec.png](/assets/img/word2vec.png)
 
 ### Clustering
-![wv_clustering.PNG](/assets/img/wv_clustering.PNG)
+![wv_clustering.PNG](/assets/img/wv_clustering.PNG)  
 
 ### Classification
 <img src="/assets/img/wv_classification.PNG" height="200" width="400">
