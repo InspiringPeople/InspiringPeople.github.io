@@ -16,7 +16,7 @@ tags : [사피엔스, 유발하라리, 필사, Writing]
   
 **필사 리스트**  
 1. 인지혁명 : [바로가기](https://inspiringpeople.github.io/writing/sapiens_inji/)    
-2. 농업혁명  
+2. 농업혁명 : [바로가기](https://inspiringpeople.github.io/writing/sapiens_nongup/)  
 3. 인류의 통합  
 4. 과학혁명  
 
