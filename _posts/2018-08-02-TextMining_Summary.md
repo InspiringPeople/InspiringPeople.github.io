@@ -30,6 +30,7 @@ ckonlpy를 이용해서 Text Data cleansing 및 tokenizing 하기 : [링크 바�
 
 ### 2. Word Embedding ###
 - Word2vec & FastText (이론) : [링크 바로가기](https://inspiringpeople.github.io/data%20analysis/word_embedding/)    
+- Glove : [링크 바로가기](https://inspiringpeople.github.io/data%20analysis/Glove/)  
 
 ### 3. Modeling ###
 1. clustering
