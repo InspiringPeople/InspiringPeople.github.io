@@ -1,5 +1,8 @@
-
-데이터분석도 자동화가 될 수 있을까?  
+---
+category: Data Analysis
+title: 데이터분석도 자동화가 될 수 있을까?
+tags: [AutoKeras, Data Analysis]
+---
 
 ## Auto-ML
 
